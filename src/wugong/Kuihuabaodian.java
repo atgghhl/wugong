@@ -3,7 +3,7 @@ package wugong;
 public class Kuihuabaodian {
 
 	public static void main(String[] args) {
-		System.out.println("这是葵花宝典!!!");
+		System.out.println("这是葵花宝典!!!1");
 
 	}
 
